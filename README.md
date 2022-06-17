@@ -48,7 +48,7 @@
 
 #### Audio
 
-![avatar](/assets/Index%20posts%20iPhone%20Audio.png)
+![avatar](/assets/Index%20posts%20iPad%20Audio.png)
 
 #### Gallery
 
