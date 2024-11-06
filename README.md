@@ -1,4 +1,4 @@
-# Solitude UI Desigen
+# Solitude Blueprint
 
 ## Index main
 
