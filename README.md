@@ -4,6 +4,8 @@
 
 **Solitude Blueprint** is a multi-device responsive front-end design for my personal blog, aimed at providing a clean, calm, and modern browsing experience. Supporting desktop, tablet, and mobile devices, this design allows users to effortlessly access articles, images, audio, and other content. Solitude Blueprint uses a modular layout and clear visual hierarchy, creating a structure that is both visually appealing and scalable, aligning well with the needs of a personal blog.
 
+----
+
 ### Preview
 
 #### Desktop
