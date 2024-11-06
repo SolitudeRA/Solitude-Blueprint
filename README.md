@@ -1,73 +1,57 @@
 # Solitude Blueprint
 
-## Index main
+## Project Background
 
-### Desktop(2560 x 1440)
+**Solitude Blueprint** is a multi-device responsive front-end design for my personal blog, aimed at providing a clean, calm, and modern browsing experience. Supporting desktop, tablet, and mobile devices, this design allows users to effortlessly access articles, images, audio, and other content. Solitude Blueprint uses a modular layout and clear visual hierarchy, creating a structure that is both visually appealing and scalable, aligning well with the needs of a personal blog.
 
-![avatar](/assets/Index%20main%20Desktop%202560%20x%201440.png)
+### Preview
 
-### Desktop(1920 x 1080)
+#### Desktop
 
-![avatar](/assets/Index%20main%20Desktop%201920%20x%201080.png)
+<table> 
+    <tr>
+        <td><img src="assets/Index_main_Desktop_2560x1440.png" alt="Desktop Home" width="400"></td> 
+        <td><img src="assets/Index_posts_Desktop_2560x1440.png" alt="Desktop Post" width="400"></td> 
+    </tr> 
+</table>
 
-### iPad horizontal
+#### Tablet
 
-![avatar](/assets/Index%20main%20iPad%20horizontal.png)
+<table> 
+    <tr> 
+        <td><img src="assets/Index_main_iPad_horizontal.png" alt="Tablet Home" width="300"></td> 
+        <td><img src="assets/Index_posts_iPad_horizontal.png" alt="Tablet Post" width="300"></td> 
+    </tr> 
+</table>
 
-### iPad vertical
+#### Mobile
 
-![avatar](/assets/Index%20main%20iPad%20vertical.png)
+<table> 
+    <tr> 
+        <td><img src="assets/Index_main_iPhone.png" alt="Mobile Home" width="200"></td> 
+        <td><img src="assets/Index_posts_iPhone_Normal.png" alt="Mobile Post" width="200"></td> 
+        <td><img src="assets/Index_posts_iPhone_Audio.png" alt="Mobile Post" width="200"></td> 
+    </tr> 
+</table>
 
-### iPhone
+---
 
-![avatar](/assets/Index%20main%20iPhone.png)
+## Design Concept
 
-## Index posts
+### 1. Visual Consistency and Brand Tone
+- **Simplicity and Modernity**: Solitude Blueprint employs a minimalist card-based layout with a dark color scheme, creating a calm and elegant visual effect that aligns with a contemporary, focused blog atmosphere.
+- **Content-Background Separation**: Soft contrasting colors help separate content from the background, ensuring that information is presented clearly without excessive visual distractions, while maintaining an overall cohesive design.
+- **Modular Layout**: Content is presented in a unified card style across the platform, ensuring consistent visuals across different devices, and allowing for future content expansion and layout adjustments.
 
-### Desktop(2560 x 1440)
+### 2. Information Architecture and Content Hierarchy
+- **Clear Content Hierarchy**: Each card is structured to prioritize information, with titles, category tags, and short descriptions displayed in order of importance, helping users quickly understand content topics and enhancing readability.
+- **Modular Information Structure**: The homepage uses modular sections like "Recommended," "Popular," and "Latest" to guide users to key content, ensuring a clean and organized information structure that makes it easy for users to find and explore.
 
-![avatar](/assets/Index%20posts%20Desktop%202560%20x%201440.png)
+### 3. User Experience (UX) Design
+- **Intuitive Page Layout**: The overall page structure is straightforward, allowing users to quickly locate content, reducing browsing friction.
+- **Visual Guidance**: Font size, color, and spacing are used to guide users' attention through the page, clarifying the browsing path and helping users focus on primary content.
+- **Potential for Personalization**: The design concept considers the possibility of personalized content recommendations (e.g., based on browsing history or user preferences) to increase user engagement and retention.
 
-### Desktop(1920 x 1080)
-
-![avatar](/assets/Index%20posts%20Desktop%201920%20x%201080.png)
-
-### iPad horizontal
-
-![avatar](/assets/Index%20posts%20iPad%20horizontal.png)
-
-### iPad vertical
-
-#### Normal
-
-![avatar](/assets/Index%20posts%20iPad%20Normal.png)
-
-#### Video
-
-![avatar](/assets/Index%20posts%20iPad%20Video.png)
-
-#### Audio
-
-![avatar](/assets/Index%20posts%20iPad%20Audio.png)
-
-#### Gallery
-
-![avatar](/assets/Index%20posts%20iPad%20Gallery.png)
-
-### iPhone
-
-#### Normal
-
-![avatar](/assets/Index%20posts%20iPhone%20Normal.png)
-
-#### Video
-
-![avatar](/assets/Index%20posts%20iPhone%20Video.png)
-
-#### Audio
-
-![avatar](/assets/Index%20posts%20iPhone%20Audio.png)
-
-#### Gallery
-
-![avatar](/assets/Index%20posts%20iPhone%20Gallery.png)
+### 4. Responsive Design for Multi-Device Compatibility
+- **Adaptive Layout**: A responsive grid layout is used for different devices, with desktops prioritizing content density for more information, while mobile layouts emphasize readability.
+- **Mobile Optimization**: Adjustments are made to card layouts, font sizes, and spacing on mobile to ensure an optimal reading experience.
